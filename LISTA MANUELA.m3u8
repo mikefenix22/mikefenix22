@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:0, Panamericana
+https://cdnhd.iblups.com/hls/ptv5.m3u8
+#EXTINF:102,ATV (720p)
+https://alba-pe-atv-atv.stream.mediatiquestream.com/original.m3u8
+#EXTINF:0,Nat Geo HD
+http://181.205.130.194:4000/play/a08s
+#EXTINF:0,Nat Geo
+http://181.205.130.194:4000/play/a06c
+#EXTINF:0,Discovery Channel
+http://181.205.130.194:4000/play/a0b6
+#EXTINF:0,Discovery World HD
+http://181.205.130.194:4000/play/a0c2
+#EXTINF:0,Animal Planet
+http://181.205.130.194:4000/play/a07e
+#EXTINF:0,Animal Planet HD
+http://181.205.130.194:4000/play/a08w
+#EXTINF:59,Kanal D Drama (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:31,Filmstream (clasicos ingles) (720p)
+https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:36,Agro TV (Apurimac)
+https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+#EXTINF:0,Cinecanal
+http://181.205.130.194:4000/play/a06e
+#EXTINF:0,Cinecanal HD
+http://181.205.130.194:4000/play/a0c3
+#EXTINF:0,HBO HD
+http://181.205.130.194:4000/play/a08u
+#EXTINF:0,History Channel
+http://181.205.130.194:4000/play/a06d
+#EXTINF:0,HomeandHealth
+http://181.205.130.194:4000/play/a080
+#EXTINF:0,Paramount HD
+http://181.205.130.194:4000/play/a09l
+#EXTINF:0,RCN Novelas
+http://181.205.130.194:4000/play/a07v
+#EXTINF:0,STAR CHANNEL
+http://181.205.130.194:4000/play/a06k
+#EXTINF:0,TBS
+http://181.205.130.194:4000/play/a07y
+#EXTINF:0,TNT
+http://181.205.130.194:4000/play/a06n
+#EXTINF:0,Warner
+http://181.205.130.194:4000/play/a07f
+#EXTINF:0,AXN
+http://181.204.79.182:8202/play/a022
+#EXTINF:0,123 TV
+http://181.204.79.182:8202/play/a066
+#EXTINF:0,ABN
+http://181.204.79.182:8202/play/a060
+#EXTINF:0,AE Mundo
+http://181.204.79.182:8202/play/a01r
+#EXTINF:0,Cinemax
+http://181.204.79.182:8202/play/a020
+#EXTINF:0,HBO
+http://181.204.79.182:8202/play/a01z
+#EXTINF:0,HBO 2
+http://181.204.79.182:8202/play/a02u
+#EXTINF:0,HBO Family
+http://181.204.79.182:8202/play/a02x
+#EXTINF:0,HBO Plus
+http://181.204.79.182:8202/play/a02v
+#EXTINF:0,HBO XTREME SD
+http://181.204.79.182:8202/play/a02w
+#EXTINF:0,Sony
+http://181.204.79.182:8202/play/a021
+#EXTINF:0,Space
+http://181.204.79.182:8202/play/a023
+#EXTINF:0,Universal
+http://181.204.79.182:8202/play/a00e
